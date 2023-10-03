@@ -3,7 +3,8 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/3d-assistant/",
+  // base: "/3d-assistant/",
+  base: "/hngxvii/",
   plugins: [react()],
 
 })
